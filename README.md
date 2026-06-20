@@ -24,8 +24,6 @@ I'm **Shaik Akram**, a passionate **Data Analyst and Web Developer** focused on 
 
 📢 Content Creator across:
 
-* YouTube
-* Medium
 * Instagram
 * LinkedIn
 
