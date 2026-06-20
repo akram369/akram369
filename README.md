@@ -1,160 +1,214 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shaik Akram
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=SHAIK%20AKRAM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-![](https://komarev.com/ghpvc/?username=akram369\&color=blueviolet\&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%F0%9F%93%8A;Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Cloud+Explorer+%E2%98%81%EF%B8%8F;Building+Data-Driven+Products+%F0%9F%9A%80"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=28\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=900\&lines=Data+Analyst;Web+Developer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions;Turning+Data+Into+Insights)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=akram369&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-### 🚀 Data Analyst | Web Developer | AI & Cloud Enthusiast
+<img src="https://img.shields.io/github/followers/akram369?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/akram369?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm **Shaik Akram**, a passionate **Data Analyst and Web Developer** focused on transforming data into actionable insights and building scalable web applications.
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4a3VjMjA4c2h6ZmJ0c3N6Mjh5MzN5aWhpbGJjYmN4d2F2YnB3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-🎯 Currently exploring Data Analytics, Machine Learning, Cloud Technologies, and Full Stack Development.
+### Hey there! 👋
 
-📚 Published researcher in IEEE SILCON 2025.
+I'm **Shaik Akram**, a passionate **Data Analyst & Full Stack Developer** dedicated to transforming raw data into impactful business insights.
 
-🌱 Constantly learning and building real-world projects that solve meaningful problems.
+🎓 Computer Science Student
 
-📢 Content Creator across:
+📊 Data Analytics Enthusiast
 
-* Instagram
-* LinkedIn
+💻 Full Stack Web Developer
 
-### ⚡ Fun Facts
+☁️ Cloud & AI Explorer
 
-* 📊 I enjoy turning raw data into business intelligence.
-* 🤖 Passionate about AI, Machine Learning, and Predictive Analytics.
-* ☁️ Cloud enthusiast with AWS, Azure, and ServiceNow experience.
-* 🚀 Always building, learning, and experimenting with new technologies.
+📚 IEEE Published Research Author
+
+🚀 Building solutions that blend Data, AI and Engineering
+
+### Fun Facts
+
+🔭 Working on Data Analytics & AI Projects
+
+🌱 Learning Advanced Data Engineering & Cloud
+
+🏆 AWS Cloud Practitioner Certified
+
+⚡ ServiceNow Certified Administrator
+
+🤖 Salesforce AI Associate Certified
+
+🎯 Goal: Become a Data Engineer & AI Specialist
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
-## 🎨 Frontend
+## Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql"/>
+</p>
 
-## ⚙️ Backend
+## Frontend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
 
-## 📊 Data Analytics & Machine Learning
+## Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql"/>
+</p>
 
-## 🗄️ Databases
+## Data Analytics & AI
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<p>
 
-## ☁️ Cloud & Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge\&logo=servicenow\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+
+</p>
+
+## Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/shaik-akram08/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://deepred-folio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://github.com/akram369">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
-</a>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akram369&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram369&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akram369&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akram369&theme=onedark&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 Predictive Demand Forecasting Dashboard
+## 📈 Predictive Demand Forecasting Dashboard
 
-* Real-time demand forecasting
-* XGBoost, ARIMA & LSTM models
-* SHAP-based feature importance
-* Interactive Streamlit dashboard
+✨ XGBoost + ARIMA + LSTM
 
-### 💼 Placement Portal
+✨ SHAP Explainability
 
-* React.js Frontend
-* Spring Boot Backend
-* MySQL Database
-* Job tracking & company management
+✨ Real-Time Forecasting
+
+✨ Streamlit Dashboard
 
 ---
 
-## 💡 Quote
+## 💼 Placement Portal
 
-> "Data tells a story. My job is to make that story meaningful."
+✨ React.js Frontend
+
+✨ Spring Boot Backend
+
+✨ MySQL Database
+
+✨ Job Tracking Platform
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Analytics
 
-📧 Open to internships, collaborations, freelance opportunities, and innovative projects.
+<div align="center">
 
-⭐ If you like my work, consider starring my repositories.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akram369&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Thanks for visiting my profile! 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram369&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akram369&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akram369&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akram369&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎓 Certifications
+
+🏅 AWS Cloud Practitioner
+
+🏅 ServiceNow Certified System Administrator
+
+🏅 Salesforce AI Associate
+
+🏅 AICTE Data Engineering Virtual Internship
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+### "Data is the new oil, but insights are the fuel."
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Amazing Together
+
+📧 Open for Internships • Freelance • Collaborations
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc"/>
 
 </div>
